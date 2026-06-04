@@ -2,8 +2,8 @@
   box-sizing: border-box;
   width: min(88%, 720px);
   margin: 0 auto;
-  padding-top: 32px;
-  padding-bottom: 64px;
+  padding-top: 16px;
+  padding-bottom: 32px;
   font-family: Charter, Georgia, "Times New Roman", serif;
   font-size: 18px;
   line-height: 1.68;
