@@ -2,6 +2,8 @@
 
 Markdown Reading View gives VS Code's built-in Markdown preview a calmer, more readable layout inspired by Medium and Substack.
 
+[Install from the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=nittarab.markdown-reading-view)
+
 It contributes a Markdown preview stylesheet through VS Code's `markdown.previewStyles` extension point. There is no runtime activation code and no need to add `markdown.styles` to your user or workspace settings.
 
 ## What It Does
