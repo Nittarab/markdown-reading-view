@@ -18,6 +18,17 @@ Before: VS Code's default Markdown preview is functional, but it can feel wide a
 
 After: Markdown preview reads more like a clean article page, with a centered column, comfortable typography, and more deliberate spacing.
 
+<table>
+  <tr>
+    <th>Before</th>
+    <th>After</th>
+  </tr>
+  <tr>
+    <td><img src="media/before.png" alt="Default VS Code Markdown preview" /></td>
+    <td><img src="media/after.png" alt="Markdown Reading View preview" /></td>
+  </tr>
+</table>
+
 ## How To Use
 
 1. Install the extension.
