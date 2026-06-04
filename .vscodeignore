@@ -1,0 +1,9 @@
+.git/**
+.github/**
+.vscode/**
+node_modules/**
+*.vsix
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+package-lock.json
