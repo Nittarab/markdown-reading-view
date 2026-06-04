@@ -2,7 +2,7 @@
   "name": "markdown-reading-view",
   "displayName": "Markdown Reading View",
   "description": "A clean Medium/Substack-style reading layout for VS Code's built-in Markdown preview.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "nittarab",
   "icon": "media/icon.png",
   "license": "MIT",
