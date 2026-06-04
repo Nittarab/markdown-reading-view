@@ -1,9 +1,12 @@
 .markdown-body {
+  box-sizing: border-box;
+  width: min(88%, 720px);
   margin: 0 auto;
-  max-width: 760px;
+  padding-top: 32px;
+  padding-bottom: 64px;
   font-family: Charter, Georgia, "Times New Roman", serif;
   font-size: 18px;
-  line-height: 1.7;
+  line-height: 1.68;
 }
 
 .markdown-body h1,
@@ -17,13 +20,13 @@
 }
 
 .markdown-body h1 {
-  font-size: 42px;
-  margin-bottom: 24px;
+  font-size: 38px;
+  margin-bottom: 28px;
 }
 
 .markdown-body h2 {
-  font-size: 28px;
-  margin-top: 48px;
+  font-size: 26px;
+  margin-top: 52px;
 }
 
 .markdown-body h3 {
@@ -34,6 +37,17 @@
 .markdown-body p,
 .markdown-body li {
   margin-bottom: 1.05em;
+}
+
+.markdown-body li {
+  margin-bottom: 0.75em;
+}
+
+@media (max-width: 700px) {
+  .markdown-body {
+    width: calc(100% - 32px);
+    font-size: 17px;
+  }
 }
 
 .markdown-body a {
