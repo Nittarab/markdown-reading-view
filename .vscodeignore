@@ -3,6 +3,7 @@
 .github/**
 .vscode/**
 node_modules/**
+media/icon.svg
 *.vsix
 npm-debug.log
 yarn-error.log

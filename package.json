@@ -4,6 +4,7 @@
   "description": "A clean Medium/Substack-style reading layout for VS Code's built-in Markdown preview.",
   "version": "0.0.1",
   "publisher": "nittarab",
+  "icon": "media/icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
